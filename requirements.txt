@@ -1,0 +1,4 @@
+waitress
+requests
+prometheus_flask_exporter 
+pytest
